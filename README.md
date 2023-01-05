@@ -7,3 +7,5 @@ This the the first class
 ## heading 2
 
 **bold**
+
+This is a branch for member 2
